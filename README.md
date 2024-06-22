@@ -7,7 +7,7 @@ This repository contains a greedy algorithm for clustering items based on their 
    git clone https://github.com/mo-austin/clustering.git
    cd clustering
 2. Run main script:
-   '''sh
+   ```sh
    python main.py
 
 
